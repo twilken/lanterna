@@ -1,7 +1,7 @@
 Action List Box
 ---
 
-An action list box stores a list of actions the user can made. Each action runs within its own thread.
+An action list box stores a list of actions the user can make. Each action runs within its own thread.
 
 To create an action list:
 
